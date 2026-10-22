@@ -14,7 +14,7 @@ Sugi está disponible en los países hispanohablantes de Latinoamérica. No se o
 
 ## 1. Quién es responsable de tus datos
 
-El responsable del tratamiento de tus datos personales es **[NOMBRE_Y_APELLIDO_RESPONSABLE]**, con domicilio en **[DOMICILIO_RESPONSABLE]**, República Argentina.
+El responsable del tratamiento de tus datos personales es **Alejandro Bavaro**, con domicilio en **Teodoro Bronzini 570**, República Argentina.
 
 Para cualquier consulta, solicitud o reclamo sobre tus datos personales escribe a **sugiacompana@gmail.com**. Es el único canal de atención y lo atiende directamente el responsable.
 

@@ -10,7 +10,7 @@ permalink: /terminos-de-servicio/
 
 ## 1. Quiénes somos y aceptación
 
-Sugi: Tu acompañante emocional ("Sugi" o "la app") es ofrecida por **[NOMBRE_Y_APELLIDO_RESPONSABLE]**, con domicilio en **[DOMICILIO_RESPONSABLE]**, República Argentina ("nosotros"). Contacto: **sugiacompana@gmail.com**.
+Sugi: Tu acompañante emocional ("Sugi" o "la app") es ofrecida por **Alejandro Bavaro**, con domicilio en **Teodoro Bronzini 570**, República Argentina ("nosotros"). Contacto: **sugiacompana@gmail.com**.
 
 Al usar Sugi aceptas estos Términos y declaras haber leído la [Política de Privacidad](/politica-de-privacidad/). Si no estás de acuerdo, no uses la app.
 
@@ -98,7 +98,7 @@ Si una respuesta de Sugi te parece ofensiva, peligrosa o inapropiada, repórtala
 
 ## 9. Propiedad intelectual
 
-La app, su diseño, la marca Sugi, los textos, ejercicios y cuestionarios pertenecen a [NOMBRE_Y_APELLIDO_RESPONSABLE] o a sus licenciantes. Te damos un permiso personal, no exclusivo e intransferible para usar la app según estos Términos.
+La app, su diseño, la marca Sugi, los textos, ejercicios y cuestionarios pertenecen a Alejandro Bavaro o a sus licenciantes. Te damos un permiso personal, no exclusivo e intransferible para usar la app según estos Términos.
 
 ## 10. Responsabilidad
 
