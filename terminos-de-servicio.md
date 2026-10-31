@@ -10,7 +10,7 @@ permalink: /terminos-de-servicio/
 
 ## 1. Quiénes somos y aceptación
 
-Sugi: Tu acompañante emocional ("Sugi" o "la app") es ofrecida por **Alejandro Bavaro**, con domicilio en **Teodoro Bronzini 570**, República Argentina ("nosotros"). Contacto: **sugiacompana@gmail.com**.
+Sugi: Tu acompañante emocional ("Sugi" o "la app") es ofrecida por **Alejandro Bavaro**, con domicilio en **San Juan 3667, Mar del Plata**, República Argentina ("nosotros"). Contacto: **sugiacompana@gmail.com**.
 
 Al usar Sugi aceptas estos Términos y declaras haber leído la [Política de Privacidad](/politica-de-privacidad/). Si no estás de acuerdo, no uses la app.
 
@@ -40,13 +40,13 @@ Sugi es una aplicación de bienestar emocional. Incluye un chat de acompañamien
 | Honduras | 911 | Teléfono de la Esperanza: 150 (lun-sáb 08:00-20:00) |
 | México | 911 | Línea de la Vida: 800 911 2000 |
 | Nicaragua | 128 (Policía: 118) | Aquí Estoy (chat): aquiestoy.chat |
-| Panamá | 911 | Línea 147 "Tu vida importa" |
+| Panamá | 911 | Línea 147 (MIDES) |
 | Paraguay | 911 | Línea 155 Te Escucha |
-| Perú | 106 (Policía: 105) | Línea 113 Salud, opción 5, salud mental |
+| Perú | 106 (Policía: 105) | Línea 113 Salud, seguí las opciones del menú para salud mental |
 | Puerto Rico | 911 | Línea PAS (ASSMCA): 1 800 981 0023 / 988 |
 | República Dominicana | 911 | Línea Nacional de Salud Mental: 811 |
 | Uruguay | 911 | Línea de Prevención del Suicidio: 0800 0767 (desde móvil: *0767) |
-| Venezuela | 911 | Línea de Ayuda Psicológica (LAPSI): 0424 290 7338 |
+| Venezuela | 911 | Línea de Ayuda Psicológica (LAPSI): 0424 290 7338 (viernes a domingo, 08:00-20:00) |
 
 Si tu país no aparece, llama al número de emergencias local o busca "línea de prevención del suicidio" junto con el nombre de tu país.
 
